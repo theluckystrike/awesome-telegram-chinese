@@ -201,3 +201,5 @@ https://tgindex.org
 要是你在上面发现了什么好频道，记得顺手提交一下。
 
 散落的东西，得靠一个个捡回来。
+
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 个单一用途 Telegram 机器人：匿名信箱、派对游戏、账单分摊、习惯打卡、提醒、专注计时等。
